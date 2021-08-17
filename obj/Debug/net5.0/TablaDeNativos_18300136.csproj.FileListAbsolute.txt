@@ -1,0 +1,16 @@
+C:\Users\emifc\OneDrive\Recovery\7Semestre\ProgramacionAvanzadaI\1P\TablaDeNativos_18300136\bin\Debug\net5.0\TablaDeNativos_18300136.exe
+C:\Users\emifc\OneDrive\Recovery\7Semestre\ProgramacionAvanzadaI\1P\TablaDeNativos_18300136\bin\Debug\net5.0\TablaDeNativos_18300136.deps.json
+C:\Users\emifc\OneDrive\Recovery\7Semestre\ProgramacionAvanzadaI\1P\TablaDeNativos_18300136\bin\Debug\net5.0\TablaDeNativos_18300136.runtimeconfig.json
+C:\Users\emifc\OneDrive\Recovery\7Semestre\ProgramacionAvanzadaI\1P\TablaDeNativos_18300136\bin\Debug\net5.0\TablaDeNativos_18300136.runtimeconfig.dev.json
+C:\Users\emifc\OneDrive\Recovery\7Semestre\ProgramacionAvanzadaI\1P\TablaDeNativos_18300136\bin\Debug\net5.0\TablaDeNativos_18300136.dll
+C:\Users\emifc\OneDrive\Recovery\7Semestre\ProgramacionAvanzadaI\1P\TablaDeNativos_18300136\bin\Debug\net5.0\ref\TablaDeNativos_18300136.dll
+C:\Users\emifc\OneDrive\Recovery\7Semestre\ProgramacionAvanzadaI\1P\TablaDeNativos_18300136\bin\Debug\net5.0\TablaDeNativos_18300136.pdb
+C:\Users\emifc\OneDrive\Recovery\7Semestre\ProgramacionAvanzadaI\1P\TablaDeNativos_18300136\obj\Debug\net5.0\TablaDeNativos_18300136.csproj.AssemblyReference.cache
+C:\Users\emifc\OneDrive\Recovery\7Semestre\ProgramacionAvanzadaI\1P\TablaDeNativos_18300136\obj\Debug\net5.0\TablaDeNativos_18300136.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emifc\OneDrive\Recovery\7Semestre\ProgramacionAvanzadaI\1P\TablaDeNativos_18300136\obj\Debug\net5.0\TablaDeNativos_18300136.AssemblyInfoInputs.cache
+C:\Users\emifc\OneDrive\Recovery\7Semestre\ProgramacionAvanzadaI\1P\TablaDeNativos_18300136\obj\Debug\net5.0\TablaDeNativos_18300136.AssemblyInfo.cs
+C:\Users\emifc\OneDrive\Recovery\7Semestre\ProgramacionAvanzadaI\1P\TablaDeNativos_18300136\obj\Debug\net5.0\TablaDeNativos_18300136.csproj.CoreCompileInputs.cache
+C:\Users\emifc\OneDrive\Recovery\7Semestre\ProgramacionAvanzadaI\1P\TablaDeNativos_18300136\obj\Debug\net5.0\TablaDeNativos_18300136.dll
+C:\Users\emifc\OneDrive\Recovery\7Semestre\ProgramacionAvanzadaI\1P\TablaDeNativos_18300136\obj\Debug\net5.0\ref\TablaDeNativos_18300136.dll
+C:\Users\emifc\OneDrive\Recovery\7Semestre\ProgramacionAvanzadaI\1P\TablaDeNativos_18300136\obj\Debug\net5.0\TablaDeNativos_18300136.pdb
+C:\Users\emifc\OneDrive\Recovery\7Semestre\ProgramacionAvanzadaI\1P\TablaDeNativos_18300136\obj\Debug\net5.0\TablaDeNativos_18300136.genruntimeconfig.cache
